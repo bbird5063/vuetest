@@ -49,6 +49,8 @@ export default {
 	position: fixed;
 }
 
+
+
 .dialog__content {
 	/* типа само окно: белое */
 	margin: auto;
@@ -59,6 +61,8 @@ export default {
 	min-width: 300px;
 	padding: 20px;
 }
+
+
 
 .spab-item {
 	display: inline-block;
